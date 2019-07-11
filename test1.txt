@@ -1,0 +1,11 @@
+ Hello
+ Volume in drive C is Windows
+ Volume Serial Number is 5C21-2CBF
+
+ Directory of C:\Users\137536\Desktop\MyProject
+
+07/11/2019  12:29 PM    <DIR>          .
+07/11/2019  12:29 PM    <DIR>          ..
+07/11/2019  12:29 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,026,605,056 bytes free
